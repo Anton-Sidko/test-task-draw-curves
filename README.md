@@ -1,6 +1,6 @@
 # React Front-End test task
 
-[Link](https://some-link) to preview on Netlify.
+[Link](https://test-task-draw-curves.netlify.app/) to preview on Netlify.
 
 ### Widget that can be initialized on the image DOM element and provide the ability to draw a 3 points curve over it:
 
